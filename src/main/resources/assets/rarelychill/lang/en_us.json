@@ -1,0 +1,13 @@
+{
+  "itemGroup.rarelychill": "Example Mod Tab",
+  "block.rarelychill.example_block": "Example Block",
+  "item.rarelychill.example_item": "Example Item",
+
+  "rarelychill.configuration.title": "Rarely Chill Mobs Configs",
+  "rarelychill.configuration.section.rarelychill.common.toml": "Rarely Chill Mobs Configs",
+  "rarelychill.configuration.section.rarelychill.common.toml.title": "Rarely Chill Mobs Configs",
+  "rarelychill.configuration.items": "Item List",
+  "rarelychill.configuration.logDirtBlock": "Log Dirt Block",
+  "rarelychill.configuration.magicNumberIntroduction": "Magic Number Text",
+  "rarelychill.configuration.magicNumber": "Magic Number"
+}
